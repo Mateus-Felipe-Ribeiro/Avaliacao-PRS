@@ -4,9 +4,11 @@ Avaliação prática para desenvolvedor.
 Imagine um cenário onde um determinado cliente precisa apenas gerenciar seus produtos e suas vendas.
 Desenvolva um sistemas web para atender as necessidades desse cliente.
 
-# Nomes das tabelas: Usuario, Produto, Venda, ProdutoVenda.
-# Rotas de back-end: Autenticação, Produto, Venda.
-# Telas do front-end: Login, Home, Produto, Venda.
+Nomes das tabelas: Usuario, Produto, Venda, ProdutoVenda.
+
+Rotas de back-end: Autenticação, Produto, Venda.
+
+Telas do front-end: Login, Home, Produto, Venda.
 
 Tabela Usuario:
 - id
